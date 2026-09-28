@@ -1,11 +1,12 @@
-import React from 'react';
+import React from 'react'
+import page from './page';
 
-const SignInPage = () => {
-    return (
-        <div>
-            please sign in
-        </div>
-    );
-};
+const LooPage = () => {
+  return (
+    <div>
+         login page
+    </div>
+  )
+}
 
-export default SignInPage;
+export default LooPage
